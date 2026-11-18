@@ -1,0 +1,1 @@
+printf ".venv/\nscripts/.venv/\ndata/\noutputs/*.pkl\n__pycache__/\n" > .gitignore
